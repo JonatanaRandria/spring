@@ -1,0 +1,9 @@
+{
+  "build": {
+    "type": "<string>",
+    "goal": "<string>"
+  },
+  "deploy": {
+    "goal": "yourgoal"
+  }
+}
